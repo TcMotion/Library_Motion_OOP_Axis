@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LibraryCategories xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="LibraryCategories.xsd">
+    <LibraryCategory>
+        <Id>2211c829-d60c-469c-9951-9c0ddbea59d6</Id>
+        <Version>1.0.0.0</Version>
+        <DefaultName>TcMotion</DefaultName>
+    </LibraryCategory>
+    <LibraryCategory>
+        <Id>8e689ddc-7ee5-4835-88c0-2f56706c30fa</Id>
+        <Version>1.0.0.0</Version>
+        <ParentCategory>
+            <Id>2211c829-d60c-469c-9951-9c0ddbea59d6</Id>
+        </ParentCategory>
+        <DefaultName>TcMotion_Component_Axis</DefaultName>
+    </LibraryCategory>
+</LibraryCategories>
